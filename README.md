@@ -1,2 +1,2 @@
 # test_project
-Automation taks
+Automation tasks
